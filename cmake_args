@@ -1,0 +1,2 @@
+-DCMAKE_INSTALL_PREFIX=/usr
+-DLIBDIR=/usr/lib64
