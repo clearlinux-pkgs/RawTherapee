@@ -4,7 +4,7 @@
 #
 Name     : RawTherapee
 Version  : 5.8
-Release  : 3
+Release  : 4
 URL      : https://github.com/Beep6581/RawTherapee/archive/5.8/RawTherapee-5.8.tar.gz
 Source0  : https://github.com/Beep6581/RawTherapee/archive/5.8/RawTherapee-5.8.tar.gz
 Summary  : A powerful cross-platform raw photo processing program
